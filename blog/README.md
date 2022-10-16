@@ -1,3 +1,4 @@
+# 코딩애플 react 짧강, 내 스타일을 조금 버무린
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
