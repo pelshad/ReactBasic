@@ -54,6 +54,8 @@ function App() {
     //...문법 -> [], {}를 해제, 그래서 객체형도 저렇게 풀어서 사용하는구나...
   }
 
+  //객체 sort기능 사용 도전...안됨
+  //해결법 찾아보기
   const sortPost = () => {
     setBlog(
       blog.sort(function(a,b){
